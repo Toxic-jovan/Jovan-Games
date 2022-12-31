@@ -12,8 +12,8 @@ pip install requests
 
 git clone https://github.com/Toxic-jovan/Jovan-Games.git
 
-cd TGames
+cd Jovan-Games 
 
-python games.py
+python Jovan🎮Games.py
 
 Enjoy...
